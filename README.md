@@ -44,3 +44,11 @@ I'm a **`software developer🛠`** and **`cybersecurity enthusiast🕵️`**, wh
 
 ### 💠 My Holocrons 
 
+<img align="left" alt="AWS" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+<img align="left" alt="Google Cybersecurity" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png"/>
+
+<br/>
+<br/>
+<br/>
+
+#
