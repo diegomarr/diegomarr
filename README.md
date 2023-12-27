@@ -11,7 +11,14 @@ I'm a **`software developer🛠`** and **`cybersecurity enthusiast🕵️`**, wh
 
 ### 🌌 My Force Powers
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" align="left" style="padding-rigth:50px;" width="50px" />    
+                            
 <br/>
 <br/>
 <br/>
