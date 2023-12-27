@@ -1,11 +1,9 @@
-# May the code be with you 🥋🌌⚔️
+# ⚔️ May the Code be with You.🥋
 
 **`🥋✨ Coding Jedi ✨🥋`**
 
-I'm an Software Developer who likes to help people using digital technologies. All coding projects are created from scrath, from designing to development. Looking to continue grow my skill set while assisting in the development of new software solutions that will help organizations achieve their goals.
-<br/>
-
 I'm a **`software developer🛠`** and **`cybersecurity enthusiast🕵️`**, who loves to help people and keep them safe in the digital realm. All my projects are developed from scratch, from designing to development, testing and deployment. I'm passionate about continues learning! 
+<br/>
 
 #
 
@@ -16,8 +14,7 @@ I'm a **`software developer🛠`** and **`cybersecurity enthusiast🕵️`**, wh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" align="left" style="padding-rigth:50px;" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" align="left" style="padding-rigth:50px;" width="50px" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" align="left" style="padding-rigth:50px;" width="50px" />
                             
 <br/>
 <br/>
@@ -27,6 +24,18 @@ I'm a **`software developer🛠`** and **`cybersecurity enthusiast🕵️`**, wh
 
 ### 🪐 My Galactic Toolkit
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" align="left" style="padding-rigth:50px;" width="50px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" align="left" style="padding-rigth:50px;" width="50px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" align="left" style="padding-rigth:50px;" width="50px" />    
+          
 <br/>
 <br/>
 <br/>
