@@ -28,12 +28,12 @@ I'm a **`software developer🛠`** and **`cybersecurity enthusiast🕵️`**, wh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" align="left" style="padding-rigth:50px;" width="50px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" align="left" style="padding-rigth:50px;" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="left" style="padding-rigth:50px;" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" align="left" style="padding-rigth:50px;" width="50px" />    
           
 <br/>
