@@ -53,3 +53,4 @@ I'm a **`software developer🛠`** and **`cybersecurity enthusiast🕵️`**, wh
 <br/>
 
 #
+<a href="https://app.daily.dev/diego2423"><img src="https://api.daily.dev/devcards/v2/DPmekDERCnaqPdYhqb4ID.png?type=default&r=6ux" width="356" alt="Diego's Dev Card"/></a>
